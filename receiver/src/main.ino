@@ -1,7 +1,8 @@
 /*********
-  Rui Santos
-  Complete project details at https://RandomNerdTutorials.com/ttgo-lora32-sx1276-arduino-ide/
+  Adapted from Rui Santos
+  see https://RandomNerdTutorials.com/ttgo-lora32-sx1276-arduino-ide/
 *********/
+
 
 //Libraries for LoRa
 #include <SPI.h>
